@@ -1,4 +1,4 @@
-Bài 10  :
+#Bài 10  :
 def giaipt():
     a = [True, False]
     for p in a:
